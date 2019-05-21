@@ -1,13 +1,13 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
+namespace Openedu.Week7
 {
-    class CheckBalance
+    class Lab7_1
     {
         public static void Main(string[] args)
         {
